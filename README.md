@@ -1,0 +1,1 @@
+# Performance-Architecture-Insights-into-Mobile-System-on-Chip-SoC-Designs
